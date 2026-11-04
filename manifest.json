@@ -1,0 +1,17 @@
+{
+  "name": "Future Muslims Academy",
+  "short_name": "Future Muslims",
+  "description": "অনলাইন কুরআন শিক্ষা — নূরানী কায়দা থেকে হিফজ পর্যন্ত",
+  "lang": "bn",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f4ee",
+  "theme_color": "#0b6b3a",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
